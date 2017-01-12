@@ -1,0 +1,16 @@
+REMARK  PHH IN WATER                                                                  
+REMARK  TRISTAN BEREAU (2013)                                                         
+REMARK   DATE:     4/21/15     17:18: 2      CREATED BY USER: baumann                 
+ATOM      1  C01 PHBR    1       1.125   1.404   4.057  1.00  0.00      LIG 
+ATOM      2  C02 PHBR    1       1.156   2.816   4.170  1.00  0.00      LIG 
+ATOM      3  C03 PHBR    1       0.029   3.602   3.852  1.00  0.00      LIG 
+ATOM      4  C04 PHBR    1      -1.167   3.005   3.407  1.00  0.00      LIG 
+ATOM      5  C05 PHBR    1      -1.237   1.596   3.281  1.00  0.00      LIG 
+ATOM      6  C06 PHBR    1      -0.041   0.785   3.568  1.00  0.00      LIG 
+ATOM      7  BR7 PHBR    1      -2.673   4.032   3.190  1.00  0.00      LIG 
+ATOM      8  H08 PHBR    1       1.976   0.809   4.365  1.00  0.00      LIG 
+ATOM      9  H09 PHBR    1       2.033   3.332   4.541  1.00  0.00      LIG 
+ATOM     10  H10 PHBR    1       0.171   4.669   3.975  1.00  0.00      LIG 
+ATOM     11  H11 PHBR    1      -2.159   1.094   3.014  1.00  0.00      LIG 
+ATOM     12  H12 PHBR    1      -0.075  -0.297   3.601  1.00  0.00      LIG 
+END
